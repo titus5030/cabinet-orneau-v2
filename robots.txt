@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://exemple.invalid
+Sitemap: https://exemple.invalid/sitemap.xml
