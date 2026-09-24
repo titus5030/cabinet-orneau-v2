@@ -1,6 +1,15 @@
 User-Agent: *
 Allow: /
-Disallow: /api/
 
-Host: https://exemple.invalid
-Sitemap: https://exemple.invalid/sitemap.xml
+User-Agent: GPTBot
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: ClaudeBot
+User-Agent: Claude-User
+User-Agent: PerplexityBot
+User-Agent: Google-Extended
+User-Agent: Applebot-Extended
+User-Agent: Bingbot
+Allow: /
+
+Sitemap: https://titus5030.github.io/cabinet-orneau-v2/sitemap.xml

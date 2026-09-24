@@ -1,0 +1,36 @@
+# Cabinet dentaire de l’Orneau
+
+> Cabinet dentaire à Gembloux (Belgique). Des soins dentaires rigoureux, une approche humaine et des traitements fondés sur les données scientifiques actuelles. Trois dentistes généralistes formés à l’UCLouvain, externes aux Cliniques universitaires Saint-Luc. Nouveaux patients acceptés.
+
+## Informations clés
+- Téléphone : 081 11 10 72 (accueil téléphonique par un assistant vocal, Melvina)
+- Réservation en ligne : https://book.melvina.be/sauvenieres-delhasse
+- Domaines : dentisterie générale, prothèse, endodontie
+- Praticiens : Antonino Caldara (dentiste généraliste spécialisé en prothèse) ; Adrien Delhasse (dentiste généraliste spécialisé en endodontie) ; Vincent Sagué (dentiste généraliste spécialisé en prothèse)
+- Première consultation : une heure ; deux places par jour réservées aux nouveaux patients
+- Praticiens déconventionnés ; tarifs sur demande ; paiement par Bancontact ; pas de tiers payant
+- Le cabinet accueille les patients de Sauvenière, Gembloux, Grand-Leez, Ernage, Corroy-le-Château, Perwez et Chastre.
+
+## Pages
+- [Accueil](https://titus5030.github.io/cabinet-orneau-v2/): présentation, domaines, horaires et accès
+- [Le cabinet](https://titus5030.github.io/cabinet-orneau-v2/le-cabinet/): histoire, approche et informations pratiques
+- [L’équipe](https://titus5030.github.io/cabinet-orneau-v2/equipe/): formation et fonction de chaque praticien
+- [Nouveaux patients](https://titus5030.github.io/cabinet-orneau-v2/nouveaux-patients/): déroulé de la première visite
+- [Prendre rendez-vous](https://titus5030.github.io/cabinet-orneau-v2/rendez-vous/): réservation en ligne ou par téléphone
+- [Contact](https://titus5030.github.io/cabinet-orneau-v2/contact/): coordonnées, horaires, urgences
+
+## Blog
+- [Première consultation chez le dentiste : comment ça se passe au cabinet](https://titus5030.github.io/cabinet-orneau-v2/blog/premiere-consultation-dentiste-gembloux/): Durée, documents à apporter, informations à communiquer et règlement : le déroulé d’une première consultation au Cabinet dentaire de l’Orneau, à Gembloux.
+- [Dentiste déconventionné en Belgique : ce que ça change pour votre remboursement](https://titus5030.github.io/cabinet-orneau-v2/blog/dentiste-deconventionne-belgique-remboursement/): Conventionné, partiellement conventionné ou déconventionné : ce que ces statuts signifient, comment la mutualité rembourse et à quoi s’attendre sans tiers payant.
+- [Endodontie : qu’est-ce qu’un traitement de canal ?](https://titus5030.github.io/cabinet-orneau-v2/blog/endodontie-traitement-de-canal/): Quand une dent a besoin d’un traitement de canal, comment il se déroule, s’il fait mal et ce qui se passe ensuite : l’essentiel sur l’endodontie.
+- [Couronne, bridge, prothèse amovible : quelles différences ?](https://titus5030.github.io/cabinet-orneau-v2/blog/couronne-bridge-prothese-amovible-differences/): Couronne, bridge ou prothèse amovible : à quoi sert chaque type de prothèse dentaire, lesquelles sont fixes, et comment se fait le choix.
+- [Mal de dents : que faire en attendant le rendez-vous ?](https://titus5030.github.io/cabinet-orneau-v2/blog/douleur-dentaire-que-faire/): Qui appeler, quels gestes simples adopter, ce qu’il vaut mieux éviter et quels signes imposent de consulter en urgence en cas de douleur dentaire.
+
+## Questions fréquentes
+- Le cabinet accepte-t-il de nouveaux patients ? Oui. Le Cabinet dentaire de l’Orneau accueille de nouveaux patients : l’agenda réserve deux places par jour à une première consultation, d’une heure chacune. Le rendez-vous se prend en ligne ou par téléphone au 081 11 10 72.
+- Comment prendre rendez-vous ? La réservation se fait en ligne, à toute heure, sur la page sécurisée du cabinet, ou par téléphone au 081 11 10 72. Les appels sont pris par Melvina, l’assistant vocal du cabinet : vous vous adressez à un système automatisé, et non à une personne.
+- Les dentistes du cabinet sont-ils conventionnés ? Non. Les trois praticiens du cabinet sont déconventionnés. Les tarifs vous sont communiqués sur demande, par téléphone ou par email, avant les soins.
+- Comment se passe le paiement ? Le règlement se fait à la fin de la consultation, par Bancontact. Le tiers payant n’est pas pratiqué.
+- Que faire en cas d’urgence dentaire ? En cas de douleur ou de situation urgente, contactez le cabinet par téléphone au 081 11 10 72. Si vous ne parvenez pas à le joindre, écrivez-lui par email.
+- Quelles communes le cabinet dessert-il ? Le cabinet accueille les patients de Sauvenière, Gembloux, Grand-Leez, Ernage, Corroy-le-Château, Perwez et Chastre. Une place de stationnement se trouve devant le cabinet.
+- Comment annuler un rendez-vous ? Un rendez-vous s’annule au plus tard deux jours ouvrables à l’avance. Le créneau libéré profite alors à un autre patient.
