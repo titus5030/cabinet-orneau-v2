@@ -15,7 +15,7 @@
 - [Accueil](https://titus5030.github.io/cabinet-orneau-v2/)
 - [Ce que nous pratiquons](https://titus5030.github.io/cabinet-orneau-v2/soins/): dentisterie générale, prothèse, endodontie, pédodontie
 - [L’équipe](https://titus5030.github.io/cabinet-orneau-v2/equipe/): formation et pratique de chaque praticien
-- [Le cabinet](https://titus5030.github.io/cabinet-orneau-v2/le-cabinet/): histoire et approche
+- [Le cabinet](https://titus5030.github.io/cabinet-orneau-v2/le-cabinet/): histoire du cabinet
 - [Contact et infos pratiques](https://titus5030.github.io/cabinet-orneau-v2/contact/): coordonnées, horaires, paiement, annulation, urgences
 - [Prendre rendez-vous](https://titus5030.github.io/cabinet-orneau-v2/rendez-vous/)
 
